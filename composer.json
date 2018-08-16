@@ -5,7 +5,7 @@
   "license": "bsd-3-clause",
   "require": {
     "php": ">=5.6",
-    "silverstripe/recipe-core": "4.2.1@stable",
+    "silverstripe/recipe-core": "*",
     "silverstripe/versioned": "*",
     "silverstripe/graphql": "*",
     "lcobucci/jwt": "^3.2"
